@@ -17,9 +17,9 @@
 
 - ❤️ Passionate about solving problems with **code** + **data**.
 
-- 🚀 Experience in Data Structures & Algorithms, Backend Development, and Analytics tools like SQL, Excel, and Tableau.
+- 🚀 Experience in Data Structures & Algorithms, AI & ML, Data and Analytics tools like SQL, Excel, and Tableau.
 
-- 🌱 I'm currently learning system design and advanced backend architecture.
+- 🌱 I'm currently learning system design, AI modelling and advanced backend architecture.
 
 - ⚡ Fun fact : I find a lot of similarity between **Code**, **Data**, and **Dance**. When I’m not debugging or analyzing, you’ll probably find me dancing to a beat 😂.
 
