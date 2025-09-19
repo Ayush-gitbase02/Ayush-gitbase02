@@ -78,7 +78,7 @@
 
 
 <a href="https://github.com/Ayush-gitbase02/NLP_with_Naruto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-gitbase02&repo=LearnVault&theme=blue-green" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-gitbase02&repo=NLP_with_Naruto&theme=blue-green" />
 </a>
 <a href="https://github.com/Ayush-gitbase02/Namma-Yatri.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-gitbase02&repo=Namma-Yatri&theme=blue-green" />
