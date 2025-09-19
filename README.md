@@ -77,7 +77,7 @@
 <h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25"> Top Repositories</h4>
 
 
-<a href="https://github.com/Ayush-gitbase02/NLP_with_Naruto.git">
+<a href="https://github.com/Ayush-gitbase02/NLP_with_Naruto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-gitbase02&repo=LearnVault&theme=blue-green" />
 </a>
 <a href="https://github.com/Ayush-gitbase02/Namma-Yatri.git">
