@@ -64,10 +64,10 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvvvg&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Garvvvg" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garvvvg&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="Ayush-gitbase02" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Garvvvg&show_icons=True&theme=blue-green" alt="Garvvvg" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Garvvvg&show_icons=True&theme=blue-green" alt="Ayush-gitbase02" />
 
 
 
@@ -77,11 +77,11 @@
 <h4><img src="https://github.com/Garvvvg/Garvvvg/blob/main/assets/eren.jpg" height="25" width="25"> Top Repositories</h4>
 
 
-<a href="https://github.com/Garvvvg/LearnVault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garvvvg&repo=LearnVault&theme=blue-green" />
+<a href="https://github.com/Ayush-gitbase02/NLP_with_Naruto.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-gitbase02&repo=LearnVault&theme=blue-green" />
 </a>
-<a href="https://github.com/Garvvvg/Namma-Yatri">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Garvvvg&repo=Namma-Yatri&theme=blue-green" />
+<a href="https://github.com/Ayush-gitbase02/Namma-Yatri.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ayush-gitbase02&repo=Namma-Yatri&theme=blue-green" />
 </a>
 
 <br />
